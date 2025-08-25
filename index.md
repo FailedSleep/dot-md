@@ -1,4 +1,4 @@
-#dotMD (Markdown site)
+# dotMD (Markdown site)
 
 > Can I host my domain mainly from github?
 >
